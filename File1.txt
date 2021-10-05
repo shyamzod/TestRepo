@@ -1,2 +1,3 @@
 This is the change 1 done in File1.txt
 This is the Change 2 done in File1.txt
+This is the Change 3 done in File1.txt from Master branch.
