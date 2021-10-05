@@ -1,3 +1,4 @@
 This is the change 1 done in File1.txt
 This is the Change 2 done in File1.txt
 This is the Change 3 done in File1.txt from Master branch.
+The Entire Casestudy is done and this is the last file to be added to remote as well as last commit"
